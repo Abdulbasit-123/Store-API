@@ -12,3 +12,5 @@ Testing Api viability for consumption by frontend
 . Stripe Payment
  E-Commerce API
 . Auth Workflow (verify email, reset password)
+
+Probability testing
