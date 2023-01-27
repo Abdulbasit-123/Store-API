@@ -13,7 +13,6 @@ Testing Api viability for consumption by frontend
  E-Commerce API
 . Auth Workflow (verify email, reset password)
 
-Probability testing
 
 
 A simple database structure for a project with customers, products, and orders could have three tables:
