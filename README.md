@@ -74,6 +74,6 @@ LIMIT 1;
 
 
 
-This query joins the Products and Orders table on the ProductID, groups the results by product name, and orders the results by the total quantity sold in descending order, and finally limit the result to 1.
+This query joins the Products and Orders table on the ProductID, groups the results by product name, and orders the results by the total quantity sold in descending order, and finally limit the result toData
 
-
+Database update also
