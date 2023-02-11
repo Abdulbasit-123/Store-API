@@ -74,4 +74,4 @@ LIMIT 1;
 
 
 
-This query joins the Products and Orders table on the ProductID, groups the results by product name, and orders the results by the total quantity sold in descending
+This query joins the Products and cors and Orders table on the ProductID, groups the results by product name, and orders the results by the total quantity sold in descending
