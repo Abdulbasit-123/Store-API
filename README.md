@@ -73,4 +73,4 @@ ORDER BY QuantitySold DESC
 LIMIT 1;
 
 
-Orders table on the Proups the results by product name, and orders the results by the total quantity sold in descending
+on the Proups the results by product name, and orders the results by the total quantity sold in descending
