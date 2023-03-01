@@ -56,7 +56,7 @@ SELECT c.Name, COUNT(o.OrderID) as OrderCount
 FROM Customers c
 INNER JOIN Orders o ON c.CustomerID = o.CustomerID
 GROUP BY c.Name
-ORDER BY OrderCount DESC;
+
 
 
 
