@@ -47,7 +47,7 @@ ProductID (Foreign Key)
 
 Quantity
 
-OrderDate
+
 
 An SQL query to list customers with the most orders first would be:
 
